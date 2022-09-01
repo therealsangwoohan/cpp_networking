@@ -1,0 +1,8 @@
+//
+// Created by Sangwoo Han on 2022-09-01.
+//
+
+#ifndef CPP_NETWORKING_SIMPLESOCKET_H
+#define CPP_NETWORKING_SIMPLESOCKET_H
+
+#endif //CPP_NETWORKING_SIMPLESOCKET_H
